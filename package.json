@@ -1,0 +1,14 @@
+{
+  "name": "malina-app",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "rollup -cw"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "13.0.6",
+    "derver": "latest",
+    "malinajs": "0.7.0-a16",
+    "rollup": "2.59.0"
+  },
+  "license": "MIT"
+}
